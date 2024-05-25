@@ -12,6 +12,8 @@ QQ : 3618542587
 Telegram : [@useless_anlong](https://t.me/useless_anlong)  
 Coolapk: [安龙真的很没用](http://www.coolapk.com/u/17919113)  
 ## How can I do
-<p align="left"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="24" height="24"/> Figma Design </p>
-<p align="left"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="24" height="24"/> Framer </p>
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="24" height="24"/> JavaScript </p>
+<p align="left"><p align="left"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="24" height="24"/>  Figma Design </p>
+<p>  </p>
+<p align="left"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="24" height="24"/>  Framer </p>
+</p>
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="24" height="24"/>  JavaScript </p>
